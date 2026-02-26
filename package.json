@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "register": "ts-node register.ts"
+    "register": "ts-node register.ts",
+    "start": "ts-node bot.ts"
   },
   "keywords": [],
   "author": "",
