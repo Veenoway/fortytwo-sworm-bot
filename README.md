@@ -45,7 +45,7 @@ Click the green **Code** button on this page → **Download ZIP** and unzip it.
 Or with Git:
 
 ```bash
-git clone https://github.com/YOUR_REPO_HERE.git
+git clone https://github.com/fortytwo-sworm-bot.git
 cd fortytwo-bot
 ```
 
